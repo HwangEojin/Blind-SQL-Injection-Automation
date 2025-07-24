@@ -1,4 +1,3 @@
-````markdown
 # BlindSQL_wizard.py
 
 **Boolean-based Blind SQL Injection 자동화 도구 (Oracle 지원)**  
@@ -12,7 +11,7 @@ Oracle 기반 웹 애플리케이션을 대상으로 DB 이름, 테이블, 컬�
 - `requests` 라이브러리  
   ```bash
   pip install requests
-````
+
 
 ---
 
@@ -51,7 +50,7 @@ Oracle 기반 웹 애플리케이션을 대상으로 DB 이름, 테이블, 컬�
 
 ---
 
-## 🔍 내부 동작
+## 내부 동작
 
 ### 1. DB 이름 추출
 
